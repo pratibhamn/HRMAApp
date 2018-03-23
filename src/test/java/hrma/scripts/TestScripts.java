@@ -24,7 +24,7 @@ public class TestScripts extends BaseTest {
 		pi.clickPin_Menu();
 		pi.clickAddEmp();
 		pi.setFirstName("Pratibha");
-		pi.setLastName("Adi");
+		pi.setLastName("MN");
 		pi.clickSaveBtn();
 		pi.verifyFirstName("Pratibha");
 		
